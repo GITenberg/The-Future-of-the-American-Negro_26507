@@ -17,6 +17,8 @@ description: This is an electronic edition of the complete book complemented by 
   was designed for optimal navigation on the Kindle, PDA, Smartphone, and other electronic
   readers. It is formatted to display on all electronic devices including the Kindle,
   Smartphones and other Mobile Devices with a small display.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26507#The-Future-of-the-American-Negro
 gutenberg_bookshelf: African American Writers
 gutenberg_issued: '2008-09-02'
 gutenberg_type: Text
